@@ -1,0 +1,3 @@
+How to debug a shell script file?
+
+In the terminal write = bash -x filename.sh
